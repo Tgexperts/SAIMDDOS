@@ -1,6 +1,6 @@
 <div align=center>
  
-# Aura DDoS
+# Saim DDoS
 
  DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, BFM, etc..)<br/><br/>
  Don't attack any websites you don't own it<br/>
@@ -79,6 +79,6 @@ Use command line : python3 main.py <method> <target> <thread> <time>
 
 ## Contact Developer
 ```sh
- Telegram: @AuraNetz
+ Telegram: @cbitelegram
 ```
 
