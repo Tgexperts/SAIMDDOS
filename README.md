@@ -13,8 +13,8 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
-## Menu
-![Aura](https://user-images.githubusercontent.com/96767456/166744010-95ce9f3b-8f3d-438a-861c-4b9cf38a9b86.png)
+
+
 
 
 ## Methods
